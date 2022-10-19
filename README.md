@@ -1,6 +1,8 @@
 clone the project.
 
-Install composer.
+cp .env.example .env
+
+composer install.
 
 Create database of name "chat-app".
 
