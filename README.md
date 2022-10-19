@@ -1,4 +1,4 @@
-clone the project
+clone the project.
 install composer
 create database of name "chat-app"
 run command "php artisan migrate"
